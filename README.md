@@ -1,4 +1,4 @@
-# Angular Personal-Dashboard-App
+# Angular-Personal-Dashboard-App
 
 A fully functioning, highly sophisticated, user-friendly application purely built using Angular which enables the user to manage their work and performance on a personalised application. The project has been built using Angular animations, routing, SCSS Styles, Pipes, angular forms and much more covering all the CRUD operations along with displaying the current date and time according to the user's location. The app has a very smooth User Interface built using SCSS Styles and angular animations, so as to make it very user-friendly. It has multiple functionalities like - Adding bookmarks, editing bookmarks, adding todos, updating and adding notes and much much more. The application's state is also saved using localStorage making it highly efficient and useful as the user data doesn't get lost. This angular application can be used in day to day life and can come really handy for scheduling our day and managing our tasks just in one single angular application.
 
