@@ -5,6 +5,7 @@ A fully functioning, highly sophisticated, user-friendly application purely buil
 ## Key Features
 
 **1. Bookmarks View**
+
     1. Adding bookmarks
     2. Managing Bookmarks View
     3. Editing a bookmark
@@ -12,25 +13,30 @@ A fully functioning, highly sophisticated, user-friendly application purely buil
     5. Links to the bookmarks
     
 **2. Todos View**
+
     1. Adding todos
     2. Marking todos to a completed/uncompleted state
     3. Editing the todos
     4. Deleting todos
     
 **3. Notes View**
+
     1. Adding notes
     2. Updating notes
     3. Deleting notes
     
 **4. User Notifications**
+
     -> Showing notifications on performing actions on the app    
   
 **5. Changing Background**
+
     1. Background changes by fading in
     2. Unsplash API for images
     3. Animation effects
    
 **6. Displays Date and Time**
+
     -> Displays the current date and time
     -> Date formatting using pipes
     
