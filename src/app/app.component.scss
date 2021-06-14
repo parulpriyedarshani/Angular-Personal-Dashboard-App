@@ -1,0 +1,77 @@
+.app-wrapper {
+    display: flex;
+    flex-direction: column;
+
+    height: 100%;
+    // background-image: url('https://images.unsplash.com/photo-1623171959896-1c81bed7f8fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max');
+    // background-image: url('https://images.unsplash.com/photo-1611634116642-3bd037f341b0?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max');
+    // background-repeat: no-repeat;
+    // background-size: cover;
+    // background-position: center;
+    // background-attachment: fixed;
+}
+
+.bg-img {
+    position: fixed;
+    z-index: -1;
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+}
+
+.top-section {
+    //background-color: aquamarine;
+    text-align: center;
+
+    padding: 50px 0; // for upper space
+
+    h1 {
+        font-size: 120px;
+        font-weight: bold;
+        color: #f5f5f5;
+        text-shadow: 0px 1px 7px rgba(black, 0.1);
+
+    }
+    
+    h2 {
+        font-size: 28px;
+        color: white;
+        text-shadow: 0px 1px 4px rgba(black, 0.1);
+    }
+}
+
+.content-section {
+    flex-grow: 1; //to fill all of the free space
+    min-height: 0;
+}
+
+.bottom-section {
+    //background-color: coral;
+    display: flex;
+
+
+    app-tabs {
+        margin: auto; // so that the tab section ddoesnot take the complete portion
+    }
+
+}
+
+.change-bg-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 10px;
+
+    background: rgba(black, 0.1);
+    color: rgba(white, 0.7);
+
+    &:hover {
+        background: rgba(black, 0.3);
+        color: white;
+    }
+
+    &:active {
+        transform: translateY(1px);
+    }
+    
+}

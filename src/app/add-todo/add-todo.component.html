@@ -1,0 +1,23 @@
+<div class="add-todo-wrapper container has-blurred-white-bg">
+    <h2 class="is-bold">Add Todo</h2>
+
+    <form #form="ngForm" (ngSubmit)="onFormSubmit(form)">
+        
+        <div class="form-field">
+            <input class="textbox" ngModel #textField="ngModel" name="text" type="text" placeholder="Enter todo text..." required minlength="3">
+            <ng-conatiner *ngIf="showValidationErrors && textField.invalid">
+                <p *ngIf="textField.errors.required">Please enter some text for this todo</p>
+                <p *ngIf="textField.errors.minlength">The todo text must be atleast 3 characters</p>
+            </ng-conatiner>
+        </div>
+
+        <div class="btns-container">
+        <!--To move back by one page i.e from /notes/add to /notes-->
+        <a routerLink="../" class="btn">Cancel</a>
+
+        <button class="btn align-end">Create Todo</button>
+
+        </div>
+
+    </form>
+</div>
