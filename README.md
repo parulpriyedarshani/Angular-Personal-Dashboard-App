@@ -44,7 +44,7 @@ A fully functioning, highly sophisticated, user-friendly application purely buil
 
 <img width="1440" alt="Screenshot 2021-06-14 at 12 05 34 PM" src="https://user-images.githubusercontent.com/47082288/121859901-eaaac700-cd15-11eb-9ced-618dd31f1576.png">
 
-## The Bookmarks
+## The Bookmarks View
 
 <img width="1440" alt="Screenshot 2021-06-14 at 1 35 26 AM" src="https://user-images.githubusercontent.com/47082288/121859914-ef6f7b00-cd15-11eb-9d2f-2d6c0f526ed9.png">
 
@@ -61,7 +61,7 @@ A fully functioning, highly sophisticated, user-friendly application purely buil
 
 <img width="1440" alt="Screenshot 2021-06-14 at 1 58 31 PM" src="https://user-images.githubusercontent.com/47082288/121862630-a10fab80-cd18-11eb-9bc0-072409dda690.png">
 
-## Adding Todo
+## Adding a Todo
 
 <img width="1440" alt="Screenshot 2021-06-14 at 1 45 08 AM" src="https://user-images.githubusercontent.com/47082288/121859965-feeec400-cd15-11eb-939c-46d9bb3bdfe9.png">
 
@@ -80,6 +80,17 @@ A fully functioning, highly sophisticated, user-friendly application purely buil
 ## User Notifications View
 
 <img width="1440" alt="Screenshot 2021-06-14 at 1 50 23 AM" src="https://user-images.githubusercontent.com/47082288/121859982-044c0e80-cd16-11eb-8701-4d7eda8de7f6.png">   
+
+## Technologies Used
+
+1. Angular CLI 10.0.5
+2. SCSS for styles
+3. Angular Forms
+4. Pipes
+5. Routing
+6. uuid
+7. Unsplash API for background images
+8. Angular Animations
     
 ## Development server
 
