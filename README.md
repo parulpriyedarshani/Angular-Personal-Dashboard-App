@@ -40,8 +40,47 @@ A fully functioning, highly sophisticated, user-friendly application purely buil
     -> Displays the current date and time
     -> Date formatting using pipes
     
-    
+## The Dashboard
 
+<img width="1440" alt="Screenshot 2021-06-14 at 12 05 34 PM" src="https://user-images.githubusercontent.com/47082288/121859901-eaaac700-cd15-11eb-9ced-618dd31f1576.png">
+
+## The Bookmarks
+
+<img width="1440" alt="Screenshot 2021-06-14 at 1 35 26 AM" src="https://user-images.githubusercontent.com/47082288/121859914-ef6f7b00-cd15-11eb-9d2f-2d6c0f526ed9.png">
+
+## Managing Bookmarks View
+
+<img width="1440" alt="Screenshot 2021-06-14 at 1 46 37 AM" src="https://user-images.githubusercontent.com/47082288/121859944-f8604c80-cd15-11eb-955b-1c61712f4d67.png">
+
+
+## The Todos View
+
+<img width="1440" alt="Screenshot 2021-06-14 at 1 56 02 PM" src="https://user-images.githubusercontent.com/47082288/121862309-4ece8a80-cd18-11eb-9cc1-ab8df25c9cf8.png">
+
+## Updating Todos
+
+<img width="1440" alt="Screenshot 2021-06-14 at 1 58 31 PM" src="https://user-images.githubusercontent.com/47082288/121862630-a10fab80-cd18-11eb-9bc0-072409dda690.png">
+
+## Adding Todo
+
+<img width="1440" alt="Screenshot 2021-06-14 at 1 45 08 AM" src="https://user-images.githubusercontent.com/47082288/121859965-feeec400-cd15-11eb-939c-46d9bb3bdfe9.png">
+
+## The Notes View
+
+<img width="1440" alt="Screenshot 2021-06-14 at 1 43 25 AM" src="https://user-images.githubusercontent.com/47082288/121859991-06ae6880-cd16-11eb-97d4-0e9eec98520b.png">
+
+## Adding a new note
+
+<img width="1440" alt="Screenshot 2021-06-14 at 1 50 15 PM" src="https://user-images.githubusercontent.com/47082288/121861557-87ba2f80-cd17-11eb-93c0-90d735059017.png">
+
+## Updating Notes
+
+<img width="1440" alt="Screenshot 2021-06-14 at 1 48 02 AM" src="https://user-images.githubusercontent.com/47082288/121860006-0a41ef80-cd16-11eb-813e-c953e057c51e.png">
+
+## User Notifications View
+
+<img width="1440" alt="Screenshot 2021-06-14 at 1 50 23 AM" src="https://user-images.githubusercontent.com/47082288/121859982-044c0e80-cd16-11eb-8701-4d7eda8de7f6.png">   
+    
 ## Development server
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
