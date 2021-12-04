@@ -27,15 +27,15 @@ A fully functioning, highly sophisticated, user-friendly application purely buil
     
 **4. User Notifications**
 
-    -> Showing notifications on performing actions on the app    
+    Shows notifications whenever the user performs any action on the Dashboard
   
-**5. Changing Background**
+**5. Dynamic Background**
 
-    1. Background changes by fading in
+    1. Background changes by fading in using Angular animations
     2. Unsplash API for images
     3. Animation effects
    
-**6. Displays Date and Time**
+**6. Date and Time Display**
 
     -> Displays the current date and time
     -> Date formatting using pipes
@@ -48,7 +48,7 @@ A fully functioning, highly sophisticated, user-friendly application purely buil
 
 <img width="1440" alt="Screenshot 2021-06-14 at 1 35 26 AM" src="https://user-images.githubusercontent.com/47082288/121859914-ef6f7b00-cd15-11eb-9d2f-2d6c0f526ed9.png">
 
-## Managing Bookmarks View
+## Managing Bookmarks
 
 <img width="1440" alt="Screenshot 2021-06-14 at 1 46 37 AM" src="https://user-images.githubusercontent.com/47082288/121859944-f8604c80-cd15-11eb-955b-1c61712f4d67.png">
 
